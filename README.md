@@ -29,6 +29,7 @@ OSSMediator is compatible with only Unix/Linux system.
     ├── OSSMediatorCollector        # Source files  
     ├── OpenNMSPlugin               # Source files
     ├── ElasticsearchPlugin         # Source files
+    ├── KafkaPlugin                 # Source files
     ├── MediatorSetup              # Source files
     └── README.md  
 

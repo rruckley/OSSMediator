@@ -1,0 +1,10 @@
+{
+  "source_dirs":[
+    "<SOURCE DIRECTORY PATH>",
+    "<SOURCE DIRECTORY PATH>"
+  ],
+  "kafka": {
+
+  },
+  "cleanup_duration": 1440
+}
